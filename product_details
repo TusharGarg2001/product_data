@@ -1,9 +1,9 @@
 [
   {
-    "name": "Samsung",
+    "name": "Samsung Galaxy",
     "type": "Mobile Phone",
     "price": 699.99,
-    "image": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/05/best-samsung-phones-6.jpg",
+    "image": "https://dekhnews.com/wp-content/uploads/2019/10/Samsung-Foldable-Smartphone-Design-Pics.jpg",
     "model": "Galaxy S21"
   },
   {
@@ -38,7 +38,7 @@
     "name": "Smartwatch",
     "type": "Wearable",
     "price": 349.99,
-    "image": "https://www.goldgenie.com/wp-content/uploads/2019/02/apple-watch4-milanese.jpg",
+    "image": "https://i5.walmartimages.com/asr/a5fea207-96d5-4874-95ee-d618b73506d3.075f2d5466eaba28d0fe4107cc5f7e07.jpeg",
     "model": "Apple Watch Series 6"
   }
 ]
