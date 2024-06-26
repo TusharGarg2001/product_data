@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Samsung",
+    "type": "Mobile Phone",
+    "price": 699.99,
+    "image": "https://www.pockettactics.com/wp-content/sites/pockettactics/2023/05/best-samsung-phones-6.jpg",
+    "model": "Galaxy S21"
+  },
+  {
+    "name": "Apple laptop",
+    "type": "Computer",
+    "price": 1299.99,
+    "image": "https://jamboshop.co.ke/blog/wp-content/uploads/2021/03/pexels-craig-dennis-205421-1536x1024.jpg",
+    "model": "MacBook Pro"
+  },
+  {
+    "name": "Smart TV",
+    "type": "Television",
+    "price": 899.99,
+    "image": "https://i5.walmartimages.com/asr/ce9a8058-e748-4627-baca-5577c51698e4.9d2cdbf485da66ae833718a0499150bc.jpeg",
+    "model": "OLED65CXPUA"
+  },
+  {
+    "name": "Wireless Earbuds",
+    "type": "Audio",
+    "price": 199.99,
+    "image": "https://thehoopsnews.com/wp-content/uploads/2024/06/apple-airpods-990x743.jpg",
+    "model": "AirPods Pro"
+  },
+  {
+    "name": "Tablet",
+    "type": "Mobile Device",
+    "price": 499.99,
+    "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4901/4901907cv13d.jpg",
+    "model": "iPad Air"
+  },
+  {
+    "name": "Smartwatch",
+    "type": "Wearable",
+    "price": 349.99,
+    "image": "https://www.goldgenie.com/wp-content/uploads/2019/02/apple-watch4-milanese.jpg",
+    "model": "Apple Watch Series 6"
+  }
+]
