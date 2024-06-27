@@ -41,7 +41,7 @@
     "image": "https://i5.walmartimages.com/asr/a5fea207-96d5-4874-95ee-d618b73506d3.075f2d5466eaba28d0fe4107cc5f7e07.jpeg",
     "model": "Apple Watch Series 6"
   },
- {
+  {
     "name": "Dell Inspiron",
     "type": "Computer",
     "price": 899.99,
@@ -105,3 +105,4 @@
     "model": "Galaxy Tab S7"
   }
 ]
+
