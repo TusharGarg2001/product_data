@@ -41,4 +41,68 @@
     "image": "https://i5.walmartimages.com/asr/a5fea207-96d5-4874-95ee-d618b73506d3.075f2d5466eaba28d0fe4107cc5f7e07.jpeg",
     "model": "Apple Watch Series 6"
   }
+ {
+    "name": "Dell Inspiron",
+    "type": "Computer",
+    "price": 899.99,
+    "image": "https://sm.pcmag.com/t/pcmag_uk/review/d/dell-inspi/dell-inspiron-14-2-in-1-7420_1us3.1200.jpg",
+    "model": "Inspiron 15"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "type": "Audio",
+    "price": 349.99,
+    "image": "https://www.lydogbilde.no/wp-content/uploads/2020/08/Sony-WH-1000XM4-spread1-scaled.jpg",
+    "model": "WH-1000XM4"
+  },
+  {
+    "name": "Google Pixel 6",
+    "type": "Mobile Phone",
+    "price": 599.99,
+    "image": "https://cdn.mos.cms.futurecdn.net/zer5kGbS6z49cK9KxCmjse.jpg",
+    "model": "Pixel 6"
+  },
+  {
+    "name": "Microsoft Surface Pro 7",
+    "type": "Computer",
+    "price": 999.99,
+    "image": "https://i5.walmartimages.com/asr/78e7d4a8-2207-41ec-bb4b-b7dea2b57d82.ce3b7ac71d6fdeb97a890b0070361dd4.jpeg",
+    "model": "Surface Pro 7"
+  },
+  {
+    "name": "Bose QuietComfort Earbuds",
+    "type": "Audio",
+    "price": 279.99,
+    "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/12/Bose-QuietComfort-Earbuds.jpg",
+    "model": "QuietComfort Earbuds"
+  },
+  {
+    "name": "Amazon Echo Dot",
+    "type": "Smart Home",
+    "price": 49.99,
+    "image": "https://s3-ap-southeast-2.amazonaws.com/techau-images/wp-media-folder-techau/wp-content/uploads/2020/12/IMG_6829.jpg",
+    "model": "Echo Dot 4th Gen"
+  },
+  {
+    "name": "Fitbit Charge 5",
+    "type": "Wearable",
+    "price": 179.99,
+    "image": "https://i.blogs.es/3467b4/fitbit-charge-5/840_560.jpeg",
+    "model": "Charge 5"
+  },
+ 
+  {
+    "name": "Canon EOS R5",
+    "type": "Camera",
+    "price": 3899.99,
+    "image": "https://i.ytimg.com/vi/KxXNi1eb8JQ/maxresdefault.jpg",
+    "model": "EOS R5"
+  },
+  {
+    "name": "Samsung Galaxy Tab S7",
+    "type": "Mobile Device",
+    "price": 649.99,
+    "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/5/2021/10/08141419/Samsung-Galaxy-Tab-S7-FE-Unboxing-scaled.jpg",
+    "model": "Galaxy Tab S7"
+  }
 ]
