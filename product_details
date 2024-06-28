@@ -13,13 +13,13 @@
     "image": "https://jamboshop.co.ke/blog/wp-content/uploads/2021/03/pexels-craig-dennis-205421-1536x1024.jpg",
     "model": "MacBook Pro"
   },
-  {
+{
     "name": "Amazon Echo Dot",
     "type": "Smart Home",
     "price": 49.99,
     "image": "https://s3-ap-southeast-2.amazonaws.com/techau-images/wp-media-folder-techau/wp-content/uploads/2020/12/IMG_6829.jpg",
     "model": "Echo Dot 4th Gen"
-  },
+  }, 
 {
     "name": "Samsung Galaxy S-22 Ultra",
     "type": "Mobile Phone",
