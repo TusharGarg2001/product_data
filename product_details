@@ -20,6 +20,48 @@
     "image": "https://i5.walmartimages.com/asr/ce9a8058-e748-4627-baca-5577c51698e4.9d2cdbf485da66ae833718a0499150bc.jpeg",
     "model": "OLED65CXPUA"
   },
+{
+    "name": "Samsung Galaxy S-22 Ultra",
+    "type": "Mobile Phone",
+    "price": 699.99,
+    "image": "https://www.sammobile.com/wp-content/uploads/2021/06/Samsung-Galaxy-S22-Ultra-Concept-01.jpg",
+    "model": "Galaxy S21"
+  },
+  {
+    "name": "HP Spectre x360",
+    "type": "Laptop",
+    "price": 1299.99,
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/HP-Spectre-13.3_FloatingModes.jpg",
+    "model": "Spectre x360"
+  },
+  {
+    "name": "Sony PlayStation 5",
+    "type": "Gaming Console",
+    "price": 499.99,
+    "image": "https://cdn.mos.cms.futurecdn.net/Vh6eSp4siwggK7RUys72nP.jpg",
+    "model": "PS5"
+  },
+  {
+    "name": "LG OLED55CXPUA",
+    "type": "Television",
+    "price": 1499.99,
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51Kr-I2fK1L.jpg",
+    "model": "OLED55CXPUA"
+  },
+  {
+    "name": "Bose SoundLink Revolve",
+    "type": "Speaker",
+    "price": 199.99,
+    "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/images/soundlink_revolve_plus_power_1x1.jpg/jcr:content/renditions/cq5dam.web.1000.1000.jpeg",
+    "model": "SoundLink Revolve"
+  },
+  {
+    "name": "Nikon Z6",
+    "type": "Camera",
+    "price": 1599.99,
+    "image": "https://cdn.mos.cms.futurecdn.net/JN4id4eQ79r4c4JzHVNtH5.jpg",
+    "model": "Z6"
+  },
   {
     "name": "Wireless Earbuds",
     "type": "Audio",
