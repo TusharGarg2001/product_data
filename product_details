@@ -4,140 +4,161 @@
     "type": "Mobile Phone",
     "price": 699.99,
     "image": "https://dekhnews.com/wp-content/uploads/2019/10/Samsung-Foldable-Smartphone-Design-Pics.jpg",
-    "model": "Galaxy S21"
+    "model": "Galaxy S21",
+    "description": "The Samsung Galaxy S21 offers a sleek design, powerful performance, and an advanced camera system. Enjoy a smooth user experience with its fast processor. The vibrant display makes media consumption a delight. Capture stunning photos with its triple camera setup. Experience long-lasting battery life."
   },
   {
     "name": "Apple laptop",
     "type": "Computer",
     "price": 1299.99,
     "image": "https://jamboshop.co.ke/blog/wp-content/uploads/2021/03/pexels-craig-dennis-205421-1536x1024.jpg",
-    "model": "MacBook Pro"
+    "model": "MacBook Pro",
+    "description": "The Apple MacBook Pro is a powerhouse with the latest M1 chip. Its Retina display provides sharp and vibrant visuals. With a long battery life, it's perfect for on-the-go professionals. The sleek design is both stylish and functional. Enjoy seamless integration with other Apple devices."
   },
-{
+  {
     "name": "Amazon Echo Dot",
     "type": "Smart Home",
     "price": 49.99,
     "image": "https://s3-ap-southeast-2.amazonaws.com/techau-images/wp-media-folder-techau/wp-content/uploads/2020/12/IMG_6829.jpg",
-    "model": "Echo Dot 4th Gen"
-  }, 
-{
+    "model": "Echo Dot 4th Gen",
+    "description": "The Amazon Echo Dot 4th Gen is a smart speaker with Alexa. Control your smart home devices with voice commands. Stream music from various services like Spotify and Amazon Music. Set reminders, get weather updates, and more. Compact design fits perfectly in any room."
+  },
+  {
     "name": "Samsung Galaxy S-22 Ultra",
     "type": "Mobile Phone",
     "price": 699.99,
     "image": "https://www.sammobile.com/wp-content/uploads/2021/06/Samsung-Galaxy-S22-Ultra-Concept-01.jpg",
-    "model": "Galaxy S21"
+    "model": "Galaxy S21",
+    "description": "The Samsung Galaxy S-22 Ultra boasts an impressive camera system for professional-grade photos. Its high-resolution display offers stunning visuals. Powered by the latest processor, it ensures smooth performance. Long battery life keeps you connected all day. Enjoy enhanced productivity with S Pen support."
   },
   {
     "name": "HP Spectre x360",
     "type": "Laptop",
     "price": 1299.99,
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/10/HP-Spectre-13.3_FloatingModes.jpg",
-    "model": "Spectre x360"
+    "model": "Spectre x360",
+    "description": "The HP Spectre x360 is a versatile 2-in-1 laptop. Its 360-degree hinge allows for flexible use as a laptop or tablet. Enjoy vibrant visuals on the 4K display. The powerful processor ensures smooth multitasking. Stylish design with a sleek, ultra-thin profile."
   },
   {
     "name": "Sony PlayStation 5",
     "type": "Gaming Console",
     "price": 499.99,
     "image": "https://cdn.mos.cms.futurecdn.net/Vh6eSp4siwggK7RUys72nP.jpg",
-    "model": "PS5"
+    "model": "PS5",
+    "description": "The Sony PlayStation 5 offers next-gen gaming performance. Experience lightning-fast loading times with the custom SSD. Stunning visuals with ray tracing and 4K resolution. Immersive gaming with 3D audio technology. A growing library of exclusive titles and backwards compatibility with PS4 games."
   },
   {
     "name": "LG OLED55CXPUA",
     "type": "Television",
     "price": 1499.99,
     "image": "https://images-na.ssl-images-amazon.com/images/I/51Kr-I2fK1L.jpg",
-    "model": "OLED55CXPUA"
+    "model": "OLED55CXPUA",
+    "description": "The LG OLED55CXPUA offers breathtaking picture quality with OLED technology. Perfect blacks and vibrant colors for a true cinematic experience. Dolby Vision IQ and Dolby Atmos for enhanced viewing and sound. Smart TV features with access to popular streaming services. Sleek design that enhances any living space."
   },
   {
     "name": "Bose SoundLink Revolve",
     "type": "Speaker",
     "price": 199.99,
     "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/images/soundlink_revolve_plus_power_1x1.jpg/jcr:content/renditions/cq5dam.web.1000.1000.jpeg",
-    "model": "SoundLink Revolve"
+    "model": "SoundLink Revolve",
+    "description": "The Bose SoundLink Revolve delivers 360-degree sound for immersive listening. Portable and durable design with a water-resistant body. Up to 12 hours of playtime on a single charge. Pair with other Bose speakers for party mode or stereo mode. Voice prompts for easy Bluetooth pairing."
   },
   {
     "name": "Nikon Z6",
     "type": "Camera",
     "price": 1599.99,
     "image": "https://cdn.mos.cms.futurecdn.net/JN4id4eQ79r4c4JzHVNtH5.jpg",
-    "model": "Z6"
+    "model": "Z6",
+    "description": "The Nikon Z6 is a full-frame mirrorless camera with exceptional image quality. Fast and accurate autofocus system for sharp photos and videos. 24.5MP sensor captures stunning details. 4K UHD video recording capabilities. Compact and lightweight design for easy handling."
   },
   {
     "name": "Wireless Earbuds",
     "type": "Audio",
     "price": 199.99,
     "image": "https://thehoopsnews.com/wp-content/uploads/2024/06/apple-airpods-990x743.jpg",
-    "model": "AirPods Pro"
+    "model": "AirPods Pro",
+    "description": "The Apple AirPods Pro offer active noise cancellation for immersive sound. Customizable fit with three sizes of silicone tips. Sweat and water-resistant for any workout. Easy setup and automatic switching between Apple devices. Up to 24 hours of listening time with the wireless charging case."
   },
   {
     "name": "Tablet",
     "type": "Mobile Device",
     "price": 499.99,
     "image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/4901/4901907cv13d.jpg",
-    "model": "iPad Air"
+    "model": "iPad Air",
+    "description": "The iPad Air combines power and portability. A14 Bionic chip for fast performance and graphics. Stunning 10.9-inch Liquid Retina display. Support for Apple Pencil and Magic Keyboard. Long battery life for all-day use. Access to a vast library of apps on the App Store."
   },
   {
     "name": "Smartwatch",
     "type": "Wearable",
     "price": 349.99,
     "image": "https://i5.walmartimages.com/asr/a5fea207-96d5-4874-95ee-d618b73506d3.075f2d5466eaba28d0fe4107cc5f7e07.jpeg",
-    "model": "Apple Watch Series 6"
+    "model": "Apple Watch Series 6",
+    "description": "The Apple Watch Series 6 offers advanced health monitoring features. Track your fitness with built-in GPS and heart rate monitor. Blood oxygen sensor and ECG app for health insights. Always-on Retina display for easy viewing. Seamless integration with your iPhone and other Apple devices."
   },
   {
     "name": "Dell Inspiron",
     "type": "Computer",
     "price": 899.99,
     "image": "https://sm.pcmag.com/t/pcmag_uk/review/d/dell-inspi/dell-inspiron-14-2-in-1-7420_1us3.1200.jpg",
-    "model": "Inspiron 15"
+    "model": "Inspiron 15",
+    "description": "The Dell Inspiron 15 is a versatile and powerful laptop. 15.6-inch Full HD display for clear visuals. Intel Core processor for smooth performance. Plenty of storage with a fast SSD. Sleek design with a comfortable keyboard for long typing sessions."
   },
   {
     "name": "Sony WH-1000XM4",
     "type": "Audio",
     "price": 349.99,
     "image": "https://www.lydogbilde.no/wp-content/uploads/2020/08/Sony-WH-1000XM4-spread1-scaled.jpg",
-    "model": "WH-1000XM4"
+    "model": "WH-1000XM4",
+    "description": "The Sony WH-1000XM4 headphones offer industry-leading noise cancellation. High-quality sound with LDAC for high-resolution audio. Comfortable fit for long listening sessions. Up to 30 hours of battery life with quick charging. Touch sensor controls for easy operation."
   },
   {
     "name": "Google Pixel 6",
     "type": "Mobile Phone",
     "price": 599.99,
     "image": "https://cdn.mos.cms.futurecdn.net/zer5kGbS6z49cK9KxCmjse.jpg",
-    "model": "Pixel 6"
+    "model": "Pixel 6",
+    "description": "The Google Pixel 6 features a cutting-edge camera system for stunning photos. Google's custom-built Tensor processor for fast performance. Smooth and responsive display with high refresh rate. All-day battery life with adaptive power. Pure Android experience with regular updates."
   },
   {
     "name": "Microsoft Surface Pro 7",
     "type": "Computer",
     "price": 999.99,
     "image": "https://i5.walmartimages.com/asr/78e7d4a8-2207-41ec-bb4b-b7dea2b57d82.ce3b7ac71d6fdeb97a890b0070361dd4.jpeg",
-    "model": "Surface Pro 7"
+    "model": "Surface Pro 7",
+    "description": "The Microsoft Surface Pro 7 is a versatile 2-in-1 device. Powerful performance with Intel Core processor. Vibrant PixelSense display with touch and pen support. Long battery life for all-day productivity. Lightweight and portable design for easy mobility."
   },
   {
     "name": "Bose QuietComfort Earbuds",
     "type": "Audio",
     "price": 279.99,
     "image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2020/12/Bose-QuietComfort-Earbuds.jpg",
-    "model": "QuietComfort Earbuds"
+    "model": "QuietComfort Earbuds",
+    "description": "The Bose QuietComfort Earbuds offer superior noise cancellation. High-fidelity audio for rich, balanced sound. Comfortable and secure fit with multiple ear tip options. Sweat and weather-resistant for any activity. Up to 6 hours of battery life with additional charges from the case."
   },
   {
     "name": "Fitbit Charge 5",
     "type": "Wearable",
     "price": 179.99,
     "image": "https://i.blogs.es/3467b4/fitbit-charge-5/840_560.jpeg",
-    "model": "Charge 5"
+    "model": "Charge 5",
+    "description": "The Fitbit Charge 5 is a comprehensive fitness tracker. Advanced health metrics including ECG and stress management. Built-in GPS for accurate activity tracking. Color touchscreen for easy navigation. Up to 7 days of battery life on a single charge."
   },
   {
     "name": "Canon EOS R5",
     "type": "Camera",
     "price": 3899.99,
     "image": "https://i.ytimg.com/vi/KxXNi1eb8JQ/maxresdefault.jpg",
-    "model": "EOS R5"
+    "model": "EOS R5",
+    "description": "The Canon EOS R5 is a professional-grade mirrorless camera. 45MP full-frame sensor for incredible detail. 8K video recording for high-resolution footage. Fast and accurate autofocus system. Durable and weather-sealed body for challenging conditions."
   },
   {
     "name": "Samsung Galaxy Tab S7",
     "type": "Mobile Device",
     "price": 649.99,
     "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/5/2021/10/08141419/Samsung-Galaxy-Tab-S7-FE-Unboxing-scaled.jpg",
-    "model": "Galaxy Tab S7"
+    "model": "Galaxy Tab S7",
+    "description": "The Samsung Galaxy Tab S7 offers a versatile tablet experience. Powerful performance with the Snapdragon processor. High-resolution display for vibrant visuals. S Pen support for productivity and creativity. Long battery life for extended use."
   }
 ]
+
 
