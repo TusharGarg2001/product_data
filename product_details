@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Samsung Galaxy",
     "type": "Mobile Phone",
     "price": 699.99,
@@ -8,6 +9,7 @@
     "description": "The Samsung Galaxy S21 offers a sleek design, powerful performance, and an advanced camera system. Enjoy a smooth user experience with its fast processor. The vibrant display makes media consumption a delight. Capture stunning photos with its triple camera setup. Experience long-lasting battery life."
   },
   {
+    "id": 2,
     "name": "Apple laptop",
     "type": "Computer",
     "price": 1299.99,
@@ -16,6 +18,7 @@
     "description": "The Apple MacBook Pro is a powerhouse with the latest M1 chip. Its Retina display provides sharp and vibrant visuals. With a long battery life, it's perfect for on-the-go professionals. The sleek design is both stylish and functional. Enjoy seamless integration with other Apple devices."
   },
   {
+    "id": 3,
     "name": "Amazon Echo Dot",
     "type": "Smart Home",
     "price": 49.99,
@@ -24,6 +27,7 @@
     "description": "The Amazon Echo Dot 4th Gen is a smart speaker with Alexa. Control your smart home devices with voice commands. Stream music from various services like Spotify and Amazon Music. Set reminders, get weather updates, and more. Compact design fits perfectly in any room."
   },
   {
+    "id": 4,
     "name": "Samsung Galaxy S-22 Ultra",
     "type": "Mobile Phone",
     "price": 699.99,
@@ -32,6 +36,7 @@
     "description": "The Samsung Galaxy S-22 Ultra boasts an impressive camera system for professional-grade photos. Its high-resolution display offers stunning visuals. Powered by the latest processor, it ensures smooth performance. Long battery life keeps you connected all day. Enjoy enhanced productivity with S Pen support."
   },
   {
+    "id": 5,
     "name": "HP Spectre x360",
     "type": "Laptop",
     "price": 1299.99,
@@ -40,6 +45,7 @@
     "description": "The HP Spectre x360 is a versatile 2-in-1 laptop. Its 360-degree hinge allows for flexible use as a laptop or tablet. Enjoy vibrant visuals on the 4K display. The powerful processor ensures smooth multitasking. Stylish design with a sleek, ultra-thin profile."
   },
   {
+    "id": 6,
     "name": "Sony PlayStation 5",
     "type": "Gaming Console",
     "price": 499.99,
@@ -48,6 +54,7 @@
     "description": "The Sony PlayStation 5 offers next-gen gaming performance. Experience lightning-fast loading times with the custom SSD. Stunning visuals with ray tracing and 4K resolution. Immersive gaming with 3D audio technology. A growing library of exclusive titles and backwards compatibility with PS4 games."
   },
   {
+    "id": 7,
     "name": "LG OLED55CXPUA",
     "type": "Television",
     "price": 1499.99,
@@ -56,6 +63,7 @@
     "description": "The LG OLED55CXPUA offers breathtaking picture quality with OLED technology. Perfect blacks and vibrant colors for a true cinematic experience. Dolby Vision IQ and Dolby Atmos for enhanced viewing and sound. Smart TV features with access to popular streaming services. Sleek design that enhances any living space."
   },
   {
+    "id": 8,
     "name": "Bose SoundLink Revolve",
     "type": "Speaker",
     "price": 199.99,
@@ -64,6 +72,7 @@
     "description": "The Bose SoundLink Revolve delivers 360-degree sound for immersive listening. Portable and durable design with a water-resistant body. Up to 12 hours of playtime on a single charge. Pair with other Bose speakers for party mode or stereo mode. Voice prompts for easy Bluetooth pairing."
   },
   {
+    "id": 9,
     "name": "Nikon Z6",
     "type": "Camera",
     "price": 1599.99,
@@ -72,6 +81,7 @@
     "description": "The Nikon Z6 is a full-frame mirrorless camera with exceptional image quality. Fast and accurate autofocus system for sharp photos and videos. 24.5MP sensor captures stunning details. 4K UHD video recording capabilities. Compact and lightweight design for easy handling."
   },
   {
+    "id": 10,
     "name": "Wireless Earbuds",
     "type": "Audio",
     "price": 199.99,
@@ -80,6 +90,7 @@
     "description": "The Apple AirPods Pro offer active noise cancellation for immersive sound. Customizable fit with three sizes of silicone tips. Sweat and water-resistant for any workout. Easy setup and automatic switching between Apple devices. Up to 24 hours of listening time with the wireless charging case."
   },
   {
+    "id": 11,
     "name": "Tablet",
     "type": "Mobile Device",
     "price": 499.99,
@@ -88,6 +99,7 @@
     "description": "The iPad Air combines power and portability. A14 Bionic chip for fast performance and graphics. Stunning 10.9-inch Liquid Retina display. Support for Apple Pencil and Magic Keyboard. Long battery life for all-day use. Access to a vast library of apps on the App Store."
   },
   {
+    "id": 12,
     "name": "Smartwatch",
     "type": "Wearable",
     "price": 349.99,
@@ -96,6 +108,7 @@
     "description": "The Apple Watch Series 6 offers advanced health monitoring features. Track your fitness with built-in GPS and heart rate monitor. Blood oxygen sensor and ECG app for health insights. Always-on Retina display for easy viewing. Seamless integration with your iPhone and other Apple devices."
   },
   {
+    "id": 13,
     "name": "Dell Inspiron",
     "type": "Computer",
     "price": 899.99,
@@ -104,6 +117,7 @@
     "description": "The Dell Inspiron 15 is a versatile and powerful laptop. 15.6-inch Full HD display for clear visuals. Intel Core processor for smooth performance. Plenty of storage with a fast SSD. Sleek design with a comfortable keyboard for long typing sessions."
   },
   {
+    "id": 14,
     "name": "Sony WH-1000XM4",
     "type": "Audio",
     "price": 349.99,
@@ -112,6 +126,7 @@
     "description": "The Sony WH-1000XM4 headphones offer industry-leading noise cancellation. High-quality sound with LDAC for high-resolution audio. Comfortable fit for long listening sessions. Up to 30 hours of battery life with quick charging. Touch sensor controls for easy operation."
   },
   {
+    "id": 15,
     "name": "Google Pixel 6",
     "type": "Mobile Phone",
     "price": 599.99,
@@ -120,6 +135,7 @@
     "description": "The Google Pixel 6 features a cutting-edge camera system for stunning photos. Google's custom-built Tensor processor for fast performance. Smooth and responsive display with high refresh rate. All-day battery life with adaptive power. Pure Android experience with regular updates."
   },
   {
+    "id": 16,
     "name": "Microsoft Surface Pro 7",
     "type": "Computer",
     "price": 999.99,
@@ -128,6 +144,7 @@
     "description": "The Microsoft Surface Pro 7 is a versatile 2-in-1 device. Powerful performance with Intel Core processor. Vibrant PixelSense display with touch and pen support. Long battery life for all-day productivity. Lightweight and portable design for easy mobility."
   },
   {
+    "id": 17,
     "name": "Bose QuietComfort Earbuds",
     "type": "Audio",
     "price": 279.99,
@@ -136,6 +153,7 @@
     "description": "The Bose QuietComfort Earbuds offer superior noise cancellation. High-fidelity audio for rich, balanced sound. Comfortable and secure fit with multiple ear tip options. Sweat and weather-resistant for any activity. Up to 6 hours of battery life with additional charges from the case."
   },
   {
+    "id": 18,
     "name": "Fitbit Charge 5",
     "type": "Wearable",
     "price": 179.99,
@@ -144,6 +162,7 @@
     "description": "The Fitbit Charge 5 is a comprehensive fitness tracker. Advanced health metrics including ECG and stress management. Built-in GPS for accurate activity tracking. Color touchscreen for easy navigation. Up to 7 days of battery life on a single charge."
   },
   {
+    "id": 19,
     "name": "Canon EOS R5",
     "type": "Camera",
     "price": 3899.99,
@@ -152,6 +171,7 @@
     "description": "The Canon EOS R5 is a professional-grade mirrorless camera. 45MP full-frame sensor for incredible detail. 8K video recording for high-resolution footage. Fast and accurate autofocus system. Durable and weather-sealed body for challenging conditions."
   },
   {
+    "id": 20,
     "name": "Samsung Galaxy Tab S7",
     "type": "Mobile Device",
     "price": 649.99,
@@ -160,5 +180,6 @@
     "description": "The Samsung Galaxy Tab S7 offers a versatile tablet experience. Powerful performance with the Snapdragon processor. High-resolution display for vibrant visuals. S Pen support for productivity and creativity. Long battery life for extended use."
   }
 ]
+
 
 
